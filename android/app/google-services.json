@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "891419845320",
+    "firebase_url": "https://appnrtz-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appnrtz",
+    "storage_bucket": "appnrtz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891419845320:android:0d32929495d6d7890f3bfd",
+        "android_client_info": {
+          "package_name": "com.example.narazaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmUIjs6hec9vJxXo3hs4BSHjWxa7kq7Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
