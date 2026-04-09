@@ -102,7 +102,7 @@ class _GradientBackgroundScreenState extends State<GradientBackgroundScreen>
                     height: screenWidth * 0.3,
                     decoration: const BoxDecoration(
                       image: DecorationImage(
-                        image: AssetImage("assets/logo.png"),
+                        image: AssetImage("assets/shrimp.png"),
                       ),
                     ),
                   ),

@@ -10,7 +10,7 @@ class SplashContentWidget extends StatelessWidget {
       children: [
         Hero(
           tag: 'shrimp-logo',
-          child: Image.asset("assets/logo.png", width: 120, height: 120),
+          child: Image.asset("assets/shrimp.png", width: 120, height: 120),
         ),
         const SizedBox(height: 24),
         Hero(
